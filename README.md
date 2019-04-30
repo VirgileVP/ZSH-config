@@ -1,5 +1,13 @@
 # ZSH-config
 
+# .zshrc :
+Configuration file for oh_my_zsh for 42 school.
+
+
+# sonicradish.zsh-theme:
+Modified sonicradish zsh-theme
+
+
 <img width="448" alt="Screen Shot 2019-04-30 at 14 48 56" src="https://user-images.githubusercontent.com/41068381/56962624-54c47a00-6b57-11e9-9b7b-8c832edaeb9d.png">
 
 
